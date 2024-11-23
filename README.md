@@ -9,7 +9,7 @@ I have a strong passion for **desktop application development**, **website backe
 ---
 
 ### 🛠 **Skills:**  
-- Desktop App Development 💻  
+- Desktop App Development (c++ , c#) 💻  
 - Website Backend Development 🌐  
 - Security in C++ 🔒  
 - API Management ⚙️  
