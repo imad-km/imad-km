@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome!
 
-![I am Kainane Mezadek Imad Eddine](https://raw.githubusercontent.com/nikxherrera/banner/main/img/nikka.png)
+![I am Kainane Mezadek Imad Eddine](https://github.com/imad-km/imad-km/blob/main/banner.png)
 
 Hello!👋🏻 My name is **Kainane Mezadek Imad Eddine**. I am a student at **University Oran 1** specializing in **Informatics**. 🏫
 
