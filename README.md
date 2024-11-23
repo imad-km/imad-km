@@ -22,9 +22,3 @@ Desktop App Development | Website Backend | Security C++ | Management API
 - 📫 How to reach me: imad-km (GitHub, LinkedIn, Instagram)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy debugging as much as coding—it’s like solving a puzzle!  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imad-km)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imad-km/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/imad-km/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/imad_km)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/imad-km)  
