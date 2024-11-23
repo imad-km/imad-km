@@ -55,7 +55,7 @@ I have a strong passion for **desktop application development**, **website backe
 
 ### 📫 **How to Reach Me:**  
 - GitHub: [imad-km](https://github.com/imad-km)  
-- Instagram: [imad-km](https://instagram.com/imad-km)  
+- Instagram: [imadkm_](https://instagram.com/imadkm_)  
 
 ---
 
