@@ -14,6 +14,6 @@ Desktop App Development | Website Backend | Security C++ | Management API
 
 - 🔭 I’m currently working on enhancing my skills in C++ and ImGui.  
 - 🌱 I’m currently learning advanced techniques in application security and backend integration.  
-- 📫 How to reach me: imad-km (GitHub, LinkedIn, Instagram)  
+- 📫 How to reach me: imad-km (GitHub, Instagram)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy debugging as much as coding—it’s like solving a puzzle!  
