@@ -2,7 +2,7 @@
 
 ![I am Kainane Mezadek Imad Eddine](https://github.com/imad-km/imad-km/blob/main/banner.png)
 
-Hello!👋🏻 My name is **Kainane Mezadek Imad Eddine**. I am a student at **University Oran 1** specializing in **Informatics** 🏫.
+Hello!👋🏻 My name is **Kainane Mezadek Imad Eddine**. I am a student at **University Oran 1** specializing in **Informatics** 🏫
 
 I have a strong passion for **desktop application development**, **website backend development**, **security in C++**, and **API management**. I am also an **ImGui designer** with expertise in **C++**.
 
